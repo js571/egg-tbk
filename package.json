@@ -1,6 +1,6 @@
 {
   "name": "egg-tbk",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "淘宝联盟openApi请求封装",
   "eggPlugin": {
     "name": "tbk"
